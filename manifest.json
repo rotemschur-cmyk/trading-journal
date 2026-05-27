@@ -1,0 +1,14 @@
+{
+  "name": "יומן מסחר",
+  "short_name": "יומן מסחר",
+  "description": "Trading journal – track every trade",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#f0c040",
+  "orientation": "portrait-primary",
+  "lang": "he",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
